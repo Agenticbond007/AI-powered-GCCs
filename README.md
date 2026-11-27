@@ -22,7 +22,7 @@ Deployment guide: [downloads/START-HERE.md](https://github.com/Agenticbond007/AI
 
 The kits are free. We deliver the AI-powered operating model.
 
-**Contact:** A Manjusha (Founder & CEO), Prerna Bhoga (Chief of Staff), +91 93409 32225
+**Contact:** CG labs +91 93409 32225
 
 All demo data is synthetic.
 
