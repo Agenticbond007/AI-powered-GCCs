@@ -1,0 +1,28 @@
+From: Priya Deshpande <accounts@kaveri-packaging.example>
+To: Meridian GCC India Pvt Ltd =?utf-8?b?4oCU?= Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Payment status =?utf-8?b?4oCU?= invoice INV-KP-2412
+Date: Sat, 21 Nov 2026 11:14:00 +0530
+Message-ID: <vq-demo-01@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA =E2=80=94 fictional. Not a real company, vendor, person,=
+ invoice, bank account, tax identifier, or payment. For playbook testing only=
+.]
+
+Dear AP Team,
+
+Please confirm the payment status of our invoice INV-KP-2412 dated 20 October=
+ 2026
+for INR 94,400. Due date was 19 November 2026. We have not received a credit =
+yet.
+
+Vendor: Kaveri Packaging Pvt Ltd
+GSTIN: 27AABCK1234A1Z5
+
+Kind regards,
+Priya Deshpande
+Accounts, Kaveri Packaging Pvt Ltd

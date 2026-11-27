@@ -1,0 +1,19 @@
+From: Rajesh Kulkarni <accounts@tapti-eng.example>
+To: Meridian GCC India Pvt Ltd - Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Statement for confirmation - Tapti Engineering
+Date: Thu, 26 Nov 2026 11:45:00 +0530
+Message-ID: <sr-04@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Balances agree
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear team,
+
+Our statement is attached (soa_tapti_engineering.csv). Balance INR 2,36,000. Please confirm.
+
+Rajesh Kulkarni

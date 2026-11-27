@@ -1,0 +1,7 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+PARAMETER,VALUE,DATA_CLASSIFICATION
+BANK_ACCOUNT,Demo Bank current account ending 4321 (GL 110100),SYNTHETIC DEMO DATA
+PERIOD,2026-11-01 to 2026-11-26,SYNTHETIC DEMO DATA
+OPENING_BALANCE_BOTH,5000000.00,SYNTHETIC DEMO DATA
+DATE_WINDOW_DAYS,3,SYNTHETIC DEMO DATA
+AMOUNT_TOLERANCE_INR,0,SYNTHETIC DEMO DATA

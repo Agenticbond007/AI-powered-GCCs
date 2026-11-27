@@ -1,0 +1,18 @@
+From: Meera Joshi <accounts@kaveri-packaging.example>
+To: Meridian GCC India Pvt Ltd - AP Tax Desk <ap.tax@meridian-gcc.example>
+Subject: Why is TDS deducted on goods invoice?
+Date: Thu, 26 Nov 2026 11:00:00 +0530
+Message-ID: <td-06@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Asks for a legal explanation
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello,
+
+INR 80 was deducted on INV-KP-2412 as TDS. These are goods, not services. Why was this deducted?
+
+Meera

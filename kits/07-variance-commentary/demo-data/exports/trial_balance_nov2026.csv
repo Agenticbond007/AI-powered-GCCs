@@ -1,0 +1,11 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+GL,DESCRIPTION,COST_CENTER,TYPE,ACTUAL_NOV,BUDGET_NOV,ACTUAL_OCT,OWNER,DATA_CLASSIFICATION
+400100,Cost-plus recharge revenue (parent),CC9000,Revenue,91000000,94000000,90500000,fpa.revenue@meridian-gcc.example,SYNTHETIC DEMO DATA
+600100,Salaries and wages,CC1000,Expense,46200000,50000000,45800000,hr.finance@meridian-gcc.example,SYNTHETIC DEMO DATA
+600200,Contractor costs,CC1000,Expense,7200000,5000000,4800000,hr.finance@meridian-gcc.example,SYNTHETIC DEMO DATA
+610100,Cloud hosting and software,CC2000,Expense,9800000,9000000,9100000,it.finance@meridian-gcc.example,SYNTHETIC DEMO DATA
+620100,Travel and conveyance,CC3000,Expense,2100000,1500000,1400000,admin.finance@meridian-gcc.example,SYNTHETIC DEMO DATA
+630100,Facility rent,CC3000,Expense,12000000,12000000,12000000,admin.finance@meridian-gcc.example,SYNTHETIC DEMO DATA
+630200,Utilities,CC3000,Expense,1840000,1750000,1790000,admin.finance@meridian-gcc.example,SYNTHETIC DEMO DATA
+640100,Training and development,CC1000,Expense,400000,1200000,950000,ld.lead@meridian-gcc.example,SYNTHETIC DEMO DATA
+650100,FX loss / (gain) on revaluation,CC9000,Expense,650000,0,-120000,treasury@meridian-gcc.example,SYNTHETIC DEMO DATA

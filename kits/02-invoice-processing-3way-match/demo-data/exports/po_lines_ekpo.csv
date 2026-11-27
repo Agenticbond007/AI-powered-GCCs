@@ -1,0 +1,8 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+EBELN,EBELP,LIFNR,SHORT_TEXT,PO_QTY,UOM,NET_PRICE,WAERS,COST_CENTER,REQUESTER,BUYER,DATA_CLASSIFICATION
+4500011010,10,0000100001,Corrugated shipper cartons 5-ply,1000,EA,80.00,INR,CC1010,priya.n@meridian-gcc.example,buyer.packaging@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500012360,10,0000100004,Safety gloves nitrile (box of 100),100,BOX,500.00,INR,CC2040,arun.k@meridian-gcc.example,buyer.mro@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500012388,10,0000100006,Deep cleaning service per floor,50,FLR,1200.00,INR,CC3001,facilities@meridian-gcc.example,buyer.services@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500011900,10,0000100007,Cable harness CH-22,40,EA,1200.00,INR,CC2040,arun.k@meridian-gcc.example,buyer.mro@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500012410,10,0000100010,Cafeteria lunch service (meals),2000,EA,120.00,INR,CC3001,facilities@meridian-gcc.example,buyer.services@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500012425,10,0000100005,A4 copier paper 75 gsm (ream),300,REAM,260.00,INR,CC1010,priya.n@meridian-gcc.example,buyer.mro@meridian-gcc.example,SYNTHETIC DEMO DATA

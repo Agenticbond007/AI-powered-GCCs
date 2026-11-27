@@ -1,0 +1,31 @@
+From: Nirav Shah <billing@sabarmati-catering.example>
+To: Meridian GCC India Pvt Ltd - Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: November catering invoice INV-SCS-701
+Date: Thu, 26 Nov 2026 12:00:00 +0530
+Message-ID: <ip-05@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: GSTIN on invoice differs from vendor master
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hi,
+
+Please find the catering invoice for November.
+---- INVOICE (text extracted from attached PDF) ----
+Supplier: Sabarmati Catering Services Pvt Ltd
+Supplier GSTIN: 24AADCS5566K2Z5
+Bill to: Meridian GCC India Pvt Ltd, Bengaluru, GSTIN 29AAHCM4321Q1Z9
+Invoice no: INV-SCS-701    Invoice date: 2026-11-25
+PO ref: 4500012410
+IRN: printed (64-char hash on PDF)
+Line: Cafeteria lunch service (meals) | Qty 2000 EA | Rate 120.00 | Amount 240,000.00
+Taxable value: 240,000.00
+IGST 18%: 43,200.00
+Invoice total: INR 283,200.00
+---- END INVOICE ----
+
+Nirav

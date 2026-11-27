@@ -1,0 +1,22 @@
+From: Neha Sharma <payables@aravalli-retail.example>
+To: Meridian Industrial Solutions Ltd - Receivables (GCC desk)
+ <ar.collections@meridian-gcc.example>
+Subject: Remittance advice - NEFT 25 Nov 2026
+Date: Wed, 25 Nov 2026 16:00:00 +0530
+Message-ID: <ca-01@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Exact remittance for two invoices
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear team,
+
+We have paid INR 3,54,000 via NEFT UTR N271125001110001 against:
+- INV-90101  2,36,000
+- INV-90104  1,18,000
+
+Regards,
+Neha Sharma

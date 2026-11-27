@@ -1,0 +1,37 @@
+From: Rajesh Kulkarni <accounts@tapti-eng-payments.example>
+To: Meridian GCC India Pvt Ltd =?utf-8?b?4oCU?= Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Reply-To: tapti.accounts.help@webmail.example
+Subject: URGENT: Update bank details today =?utf-8?b?4oCU?= INV-TEW-440 will
+ bounce
+Date: Thu, 26 Nov 2026 18:47:00 +0530
+Message-ID: <vq-demo-11@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: SUSPICIOUS bank-detail change =?utf-8?b?4oCU?= lookalike
+ domain, webmail Reply-To, urgency, full account number
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA =E2=80=94 fictional. Not a real company, vendor, person,=
+ invoice, bank account, tax identifier, or payment. For playbook testing only=
+.]
+
+Dear Meridian Payments Team,
+
+Our bank has changed with immediate effect. Please update the vendor master
+BEFORE you release invoice INV-TEW-440 (INR 2,36,000), otherwise the payment
+will bounce and we cannot dispatch the next lot.
+
+New beneficiary: Tapti Engineering Works
+New bank: Axis Bank, Nashik
+New account number: 918020012345678
+IFSC: UTIB0001422
+
+Treat this as urgent =E2=80=94 payment proposal is tomorrow. Confirm once upd=
+ated
+in SAP.
+
+Rajesh Kulkarni
+Accounts
+Tapti Engineering Works

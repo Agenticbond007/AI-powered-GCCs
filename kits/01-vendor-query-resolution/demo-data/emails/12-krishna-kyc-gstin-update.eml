@@ -1,0 +1,34 @@
+From: Pooja Agarwal <accounts@krishna-print.example>
+To: Meridian GCC India Pvt Ltd =?utf-8?b?4oCU?= Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Vendor master update =?utf-8?b?4oCU?= additional GSTIN / registered
+ address
+Date: Thu, 12 Nov 2026 11:02:00 +0530
+Message-ID: <vq-demo-12@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA =E2=80=94 fictional. Not a real company, vendor, person,=
+ invoice, bank account, tax identifier, or payment. For playbook testing only=
+.]
+
+Dear Vendor Master / AP,
+
+Please update our records:
+
+Vendor: Krishna Print and Allied Pvt Ltd
+Existing GSTIN: 08AADCK3344J1Z6 (Rajasthan)
+
+We have taken an additional GST registration in Maharashtra. Please add
+GSTIN 27AADCK3344J1Z4 and our new correspondence address:
+
+Shop 14, Midc Industrial Area, Bhiwandi, Thane 421302
+
+We will send cancelled cheque and GST certificate through the official
+onboarding channel if you tell us the process. This request is for GSTIN
+and address only =E2=80=94 bank details are unchanged.
+
+Regards,
+Pooja Agarwal

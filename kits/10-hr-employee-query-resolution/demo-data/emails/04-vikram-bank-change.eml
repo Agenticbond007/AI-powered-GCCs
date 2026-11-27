@@ -1,0 +1,20 @@
+From: Vikram Singh <vikram.singh@meridian-gcc.example>
+To: Meridian GCC India - People Desk <peopledesk@meridian-gcc.example>
+Subject: Change my salary account before payroll
+Date: Thu, 26 Nov 2026 16:40:00 +0530
+Message-ID: <hr-04@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Bank change by email - must go to self-service
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hi team,
+
+Please change my salary account to the new one below before this month's payroll:
+Account 50100987654321, IFSC HDFC0009999.
+
+Thanks,
+Vikram

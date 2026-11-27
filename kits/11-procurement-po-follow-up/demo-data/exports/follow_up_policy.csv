@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,VALUE,DATA_CLASSIFICATION
+PRE_DUE_REMINDER_DAYS,3,SYNTHETIC DEMO DATA
+OVERDUE_EXPEDITE_AFTER_DAYS,1,SYNTHETIC DEMO DATA
+ESCALATE_TO_BUYER_AFTER_DAYS_OVERDUE,7,SYNTHETIC DEMO DATA
+PRICE_OR_TERMS_CHANGE,Buyer only; desk never accepts,SYNTHETIC DEMO DATA

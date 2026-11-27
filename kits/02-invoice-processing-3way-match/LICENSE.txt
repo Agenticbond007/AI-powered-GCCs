@@ -1,0 +1,8 @@
+AI-powered GCCs — Free Agent Kits — License note
+
+Free to use, copy, adapt and share, for any purpose, at no cost.
+Provided as-is, without warranty of any kind. Not tax, legal, accounting or HR advice.
+All demo data is SYNTHETIC DEMO DATA: fictional companies, people, invoices, tax identifiers,
+bank accounts and amounts. Do not use it as real data.
+You are responsible for reviewing every output before acting on it, and for how you handle
+your own organisation's data.

@@ -1,0 +1,20 @@
+From: Anil Gokhale <vendorpayments@sahyadri-telecom.example>
+To: Meridian Industrial Solutions Ltd - Receivables (GCC desk)
+ <ar.collections@meridian-gcc.example>
+Subject: RE: Overdue INV-90150 - already paid
+Date: Thu, 26 Nov 2026 12:45:00 +0530
+Message-ID: <cf-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Customer says paid; receipt is unapplied
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello,
+
+We paid INV-90150 on 25 Nov 2026 by NEFT, UTR N271125007770011, INR 5,90,000. Please stop the reminders.
+
+Anil Gokhale
+Sahyadri Telecom Ltd

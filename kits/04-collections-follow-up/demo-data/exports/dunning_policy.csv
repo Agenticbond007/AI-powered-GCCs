@@ -1,0 +1,7 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+LEVEL,DAYS_OVERDUE_FROM,TONE,SENDER,NOTE,DATA_CLASSIFICATION
+PRE-DUE,-5,Courtesy reminder,Collector,Invoice due within 5 days,SYNTHETIC DEMO DATA
+1,1,Friendly reminder,Collector,,SYNTHETIC DEMO DATA
+2,15,Firm reminder with statement,Collector,,SYNTHETIC DEMO DATA
+3,30,Escalation; copy customer finance head,Collections lead approves,No legal or credit-hold language without lead approval,SYNTHETIC DEMO DATA
+BROKEN-PROMISE,0,Escalate to level 3 at once,Collections lead approves,,SYNTHETIC DEMO DATA

@@ -1,0 +1,5 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+DRIVER,BUDGET,ACTUAL,NOTE,DATA_CLASSIFICATION
+"Headcount (FTE, month end)",440,410,HRIS month-end count,SYNTHETIC DEMO DATA
+Contractors (count),20,32,,SYNTHETIC DEMO DATA
+"USD/INR revaluation rate (DEMO RATE, not market data)",83.50,84.10,Demo rates for the exercise only,SYNTHETIC DEMO DATA

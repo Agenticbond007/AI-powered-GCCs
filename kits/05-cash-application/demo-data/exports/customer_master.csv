@@ -1,0 +1,8 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+KUNNR,NAME,CITY,AP_EMAIL,AP_CONTACT,PAYMENT_TERMS,CREDIT_LIMIT_INR,DATA_CLASSIFICATION
+C200001,Aravalli Retail Pvt Ltd,Jaipur,payables@aravalli-retail.example,Neha Sharma,NT30,5000000,SYNTHETIC DEMO DATA
+C200002,Nilgiri Foods Ltd,Coimbatore,ap@nilgiri-foods.example,Ramesh Iyer,NT45,8000000,SYNTHETIC DEMO DATA
+C200003,Vindhya Pharma Ltd,Bhopal,accounts.payable@vindhya-pharma.example,Pooja Mishra,NT30,6000000,SYNTHETIC DEMO DATA
+C200004,Konkan Motors Pvt Ltd,Ratnagiri,finance@konkan-motors.example,Sachin Desai,NT30,4000000,SYNTHETIC DEMO DATA
+C200005,Sahyadri Telecom Ltd,Pune,vendorpayments@sahyadri-telecom.example,Anil Gokhale,NT45,10000000,SYNTHETIC DEMO DATA
+C200006,Satpura Agro Pvt Ltd,Nagpur,accounts@satpura-agro.example,Kavita Wankhede,NT30,3000000,SYNTHETIC DEMO DATA

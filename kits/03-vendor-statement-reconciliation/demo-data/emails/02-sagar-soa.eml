@@ -1,0 +1,19 @@
+From: Venkat Raman <ar@sagarlogistics.example>
+To: Meridian GCC India Pvt Ltd - Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Balance confirmation - Sagar Logistics
+Date: Wed, 25 Nov 2026 14:30:00 +0530
+Message-ID: <sr-02@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Short payment explained by debit note and TDS
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello,
+
+Attached is our ledger (soa_sagar_logistics.csv). Our balance is INR 61,600. We see a short receipt on INV-SL-4410. Please clear the difference.
+
+Venkat

@@ -1,0 +1,4 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+CLAIM_ID,EMP_ID,TYPE,AMOUNT,SUBMITTED,STATUS,PENDING_WITH,EXPECTED_PAYOUT_CYCLE,DATA_CLASSIFICATION
+RC-5521,E10512,Client travel - Pune,18450.00,2026-11-10,APPROVED,Payroll,2026-11-30 payroll,SYNTHETIC DEMO DATA
+RC-5534,E10512,Internet,1500.00,2026-11-12,REJECTED - bill missing,Employee,,SYNTHETIC DEMO DATA

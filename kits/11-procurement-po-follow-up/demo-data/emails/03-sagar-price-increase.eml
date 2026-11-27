@@ -1,0 +1,18 @@
+From: Venkat Raman <ar@sagarlogistics.example>
+To: Meridian GCC India - Procurement Desk <procurement@meridian-gcc.example>
+Subject: PO 4500012541 - fuel surcharge
+Date: Wed, 25 Nov 2026 16:00:00 +0530
+Message-ID: <po-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Price change request - buyer only
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hi,
+
+Because of the diesel price increase we need to revise the trip rate on PO 4500012541 from INR 18,500 to INR 19,800. Please confirm acceptance so we can schedule the trips.
+
+Venkat

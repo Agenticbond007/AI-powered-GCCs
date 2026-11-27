@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+DATE,PARTICULARS,REFERENCE,DEBIT_INR,CREDIT_INR,BALANCE_INR,DATA_CLASSIFICATION
+2026-09-30,Service invoice,INV-GFM-901,70800.00,,70800.00,SYNTHETIC DEMO DATA
+2026-10-15,Service invoice,INV-GFM-910,70800.00,,141600.00,SYNTHETIC DEMO DATA
+2026-10-16,Receipt NEFT,N271016006667777,,70800.00,70800.00,SYNTHETIC DEMO DATA
+2026-11-01,Service invoice,INV-GFM-928,70800.00,,141600.00,SYNTHETIC DEMO DATA

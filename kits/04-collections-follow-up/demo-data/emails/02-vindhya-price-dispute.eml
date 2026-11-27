@@ -1,0 +1,20 @@
+From: Pooja Mishra <accounts.payable@vindhya-pharma.example>
+To: Meridian Industrial Solutions Ltd - Receivables (GCC desk)
+ <ar.collections@meridian-gcc.example>
+Subject: Dispute - INV-90131 rate does not match PO
+Date: Thu, 26 Nov 2026 10:30:00 +0530
+Message-ID: <cf-02@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Pricing dispute on one invoice; the other is undisputed
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear team,
+
+INV-90131 is billed at INR 1,250 per unit, but our PO VPL/PO/7781 says INR 1,200. We are holding this invoice until a credit note or revised invoice is received. INV-90133 is fine and will be paid in this week's run.
+
+Pooja Mishra
+Vindhya Pharma Ltd

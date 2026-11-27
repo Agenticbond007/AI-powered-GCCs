@@ -1,0 +1,19 @@
+From: Lakshmi Reddy <accounts@godavari-fm.example>
+To: Meridian GCC India Pvt Ltd - Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Outstanding statement - Godavari FM
+Date: Thu, 26 Nov 2026 09:20:00 +0530
+Message-ID: <sr-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Vendor has not applied our 13-Nov payment
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear Sir/Madam,
+
+As per the attached statement (soa_godavari_fm.csv), two invoices are outstanding totalling INR 1,41,600. Please arrange payment.
+
+Lakshmi

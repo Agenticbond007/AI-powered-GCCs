@@ -1,0 +1,19 @@
+From: Kavita Wankhede <accounts@satpura-agro.example>
+To: Meridian Industrial Solutions Ltd - Receivables (GCC desk)
+ <ar.collections@meridian-gcc.example>
+Subject: Payment for INV-90160
+Date: Thu, 26 Nov 2026 11:00:00 +0530
+Message-ID: <ca-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Short payment with no reason
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello,
+
+We have released payment for INV-90160 today. UTR N271126005550005.
+
+Kavita Wankhede

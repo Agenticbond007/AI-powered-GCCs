@@ -1,0 +1,31 @@
+From: Sunil Verma <sales@chambal-components.example>
+To: Meridian GCC India Pvt Ltd - Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Resending invoice INV-CC-778 for payment
+Date: Wed, 25 Nov 2026 15:22:00 +0530
+Message-ID: <ip-04@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Duplicate =?utf-8?b?4oCU?= already posted and paid
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear team,
+
+Resending our invoice INV-CC-778 as we have not received confirmation.
+---- INVOICE (text extracted from attached PDF) ----
+Supplier: Chambal Components Pvt Ltd
+Supplier GSTIN: 23AABCC6789G1Z0
+Bill to: Meridian GCC India Pvt Ltd, Bengaluru, GSTIN 29AAHCM4321Q1Z9
+Invoice no: INV-CC-778    Invoice date: 2026-10-01
+PO ref: 4500011900
+IRN: printed (64-char hash on PDF)
+Line: Cable harness CH-22 | Qty 40 EA | Rate 1,200.00 | Amount 48,000.00
+Taxable value: 48,000.00
+IGST 18%: 8,640.00
+Invoice total: INR 56,640.00
+---- END INVOICE ----
+
+Sunil Verma

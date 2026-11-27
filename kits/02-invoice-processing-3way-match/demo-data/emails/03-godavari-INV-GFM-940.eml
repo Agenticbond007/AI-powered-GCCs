@@ -1,0 +1,32 @@
+From: Lakshmi Reddy <accounts@godavari-fm.example>
+To: Meridian GCC India Pvt Ltd - Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: INV-GFM-940 deep cleaning =?utf-8?b?4oCU?= November
+Date: Wed, 25 Nov 2026 09:05:00 +0530
+Message-ID: <ip-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Price variance above tolerance (1,250 vs 1,200)
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear Sir/Madam,
+
+Please process the attached invoice.
+---- INVOICE (text extracted from attached PDF) ----
+Supplier: Godavari Facilities Management Pvt Ltd
+Supplier GSTIN: 36AABCG2345F1Z4
+Bill to: Meridian GCC India Pvt Ltd, Bengaluru, GSTIN 29AAHCM4321Q1Z9
+Invoice no: INV-GFM-940    Invoice date: 2026-11-24
+PO ref: 4500012388
+IRN: printed (64-char hash on PDF)
+Line: Deep cleaning service per floor | Qty 50 FLR | Rate 1,250.00 | Amount 62,500.00
+Taxable value: 62,500.00
+IGST 18%: 11,250.00
+Invoice total: INR 73,750.00
+---- END INVOICE ----
+
+Regards,
+Lakshmi Reddy

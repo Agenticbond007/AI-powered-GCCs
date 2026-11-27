@@ -1,0 +1,8 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+EMP_ID,NAME,WORK_EMAIL,DEPARTMENT,LOCATION,DATE_OF_JOINING,STATUS,SALARY_ACCT_MASKED,DATA_CLASSIFICATION
+E10231,Aditi Kulkarni,aditi.kulkarni@meridian-gcc.example,AP Tower,Bengaluru,2023-07-03,ACTIVE,XXXX1182,SYNTHETIC DEMO DATA
+E10477,Rohan Menon,rohan.menon@meridian-gcc.example,R2R Tower,Bengaluru,2024-01-15,ACTIVE,XXXX6610,SYNTHETIC DEMO DATA
+E10512,Farah Siddiqui,farah.siddiqui@meridian-gcc.example,FP&A,Hyderabad,2024-04-01,ACTIVE,XXXX0934,SYNTHETIC DEMO DATA
+E10588,Vikram Singh,vikram.singh@meridian-gcc.example,O2C Tower,Bengaluru,2022-11-21,ACTIVE,XXXX7741,SYNTHETIC DEMO DATA
+E10603,Sneha Pillai,sneha.pillai@meridian-gcc.example,Tax,Bengaluru,2025-02-10,ACTIVE,XXXX2208,SYNTHETIC DEMO DATA
+E10099,Arjun Das,arjun.das@meridian-gcc.example,AP Tower,Bengaluru,2021-06-14,EXITED 2026-10-31,XXXX5521,SYNTHETIC DEMO DATA

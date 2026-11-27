@@ -1,0 +1,31 @@
+From: Thomas Mathew <invoices@malabar-office.example>
+To: Meridian GCC India Pvt Ltd - Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Invoice INV-MOS-345 copier paper
+Date: Fri, 27 Nov 2026 08:15:00 +0530
+Message-ID: <ip-07@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: 3-way match OK but IRN / e-invoice details missing
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear team,
+
+Our invoice for copier paper is below.
+---- INVOICE (text extracted from attached PDF) ----
+Supplier: Malabar Office Solutions Pvt Ltd
+Supplier GSTIN: 32AADCM7890E1Z1
+Bill to: Meridian GCC India Pvt Ltd, Bengaluru, GSTIN 29AAHCM4321Q1Z9
+Invoice no: INV-MOS-345    Invoice date: 2026-11-26
+PO ref: 4500012425
+IRN: not printed on invoice
+Line: A4 copier paper 75 gsm (ream) | Qty 300 REAM | Rate 260.00 | Amount 78,000.00
+Taxable value: 78,000.00
+IGST 18%: 14,040.00
+Invoice total: INR 92,040.00
+---- END INVOICE ----
+
+Thomas

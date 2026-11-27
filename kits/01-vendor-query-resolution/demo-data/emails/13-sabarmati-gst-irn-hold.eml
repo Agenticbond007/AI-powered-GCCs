@@ -1,0 +1,29 @@
+From: Farhan Qureshi <billing@sabarmati-catering.example>
+To: Meridian GCC India Pvt Ltd =?utf-8?b?4oCU?= Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: GST / IRN query =?utf-8?b?4oCU?= invoice INV-SCS-662 unpaid
+Date: Fri, 20 Nov 2026 13:27:00 +0530
+Message-ID: <vq-demo-13@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA =E2=80=94 fictional. Not a real company, vendor, person,=
+ invoice, bank account, tax identifier, or payment. For playbook testing only=
+.]
+
+Dear AP,
+
+Invoice INV-SCS-662 dated 2 November 2026 for INR 53,100 is overdue
+(due 17 November). Our GST team asked whether this is held for a GSTIN
+mismatch or a missing IRN / GSTR-2B issue.
+
+Please confirm the exact reason and what corrected document you need.
+
+Vendor: Sabarmati Catering Services Pvt Ltd
+GSTIN on our invoice: 24AADCS5566K1Z6
+
+Thank you,
+Farhan Qureshi
+Billing

@@ -1,0 +1,7 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+KUNNR,DATE,COLLECTOR,NOTE,PROMISE_DATE,PROMISE_AMOUNT,DATA_CLASSIFICATION
+C200001,2026-11-05,collector.a@meridian-gcc.example,Reminder 1 sent for INV-90101. No reply.,,,SYNTHETIC DEMO DATA
+C200001,2026-11-19,collector.a@meridian-gcc.example,Reminder 2 sent for INV-90101 and INV-90104. No reply.,,,SYNTHETIC DEMO DATA
+C200004,2026-11-10,collector.b@meridian-gcc.example,Call with Sachin Desai: promised payment of INV-90140.,2026-11-20,177000.00,SYNTHETIC DEMO DATA
+C200004,2026-11-23,collector.b@meridian-gcc.example,Promise broken. Voicemail left.,,,SYNTHETIC DEMO DATA
+C200003,2026-11-16,collector.b@meridian-gcc.example,Reminder 1 sent for INV-90131 and INV-90133.,,,SYNTHETIC DEMO DATA

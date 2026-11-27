@@ -1,0 +1,27 @@
+From: Pooja Agarwal <accounts@krishna-print.example>
+To: Meridian GCC India Pvt Ltd =?utf-8?b?4oCU?= Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Payment not credited =?utf-8?b?4oCU?= INV-KPA-215
+Date: Wed, 18 Nov 2026 16:10:00 +0530
+Message-ID: <vq-demo-15@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA =E2=80=94 fictional. Not a real company, vendor, person,=
+ invoice, bank account, tax identifier, or payment. For playbook testing only=
+.]
+
+Hello,
+
+Invoice INV-KPA-215 dated 14 October 2026 for INR 29,500 is still showing
+as outstanding in our books. We have not identified a bank credit.
+Please confirm whether it has been paid and share the UTR, date, and amount
+so we can follow up with our bank.
+
+Vendor: Krishna Print and Allied Pvt Ltd
+IFSC on our record: ICIC0000789
+
+Thanks,
+Pooja Agarwal

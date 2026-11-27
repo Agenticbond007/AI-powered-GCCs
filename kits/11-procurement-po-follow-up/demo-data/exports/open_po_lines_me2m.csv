@@ -1,0 +1,7 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+EBELN,EBELP,LIFNR,VENDOR,SHORT_TEXT,PO_QTY,RECEIVED_QTY,UOM,NET_PRICE,DELIVERY_DATE,VENDOR_ACK,REQUESTER,BUYER,DATA_CLASSIFICATION
+4500012501,10,0000100004,Narmada Industrial Supplies Pvt Ltd,Safety shoes size mix,200,0,PR,1450.00,2026-11-20,NO,arun.k@meridian-gcc.example,buyer.mro@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500012510,10,0000100005,Malabar Office Solutions Pvt Ltd,Ergonomic chairs,60,0,EA,8900.00,2026-11-25,YES,facilities@meridian-gcc.example,buyer.mro@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500012522,10,0000100001,Kaveri Packaging Pvt Ltd,Printed mailer boxes,5000,3000,EA,22.00,2026-11-24,YES,priya.n@meridian-gcc.example,buyer.packaging@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500012530,10,0000100007,Chambal Components Pvt Ltd,Cable harness CH-22,100,0,EA,1200.00,2026-11-30,NO,arun.k@meridian-gcc.example,buyer.mro@meridian-gcc.example,SYNTHETIC DEMO DATA
+4500012541,10,0000100003,Sagar Logistics Pvt Ltd,Freight - Chennai to Bengaluru (trips),8,0,TRIP,18500.00,2026-12-10,YES,logistics@meridian-gcc.example,buyer.services@meridian-gcc.example,SYNTHETIC DEMO DATA

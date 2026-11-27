@@ -1,0 +1,27 @@
+From: Arjun Reddy <finance@deccan-tech.example>
+To: Meridian GCC India Pvt Ltd =?utf-8?b?4oCU?= Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Short payment on INV-DTS-884 =?utf-8?b?4oCU?= TDS query
+Date: Fri, 18 Sep 2026 16:40:00 +0530
+Message-ID: <vq-demo-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA =E2=80=94 fictional. Not a real company, vendor, person,=
+ invoice, bank account, tax identifier, or payment. For playbook testing only=
+.]
+
+Hello,
+
+Invoice INV-DTS-884 dated 10 August 2026 was for INR 1,77,000 (including GST).
+We received only INR 1,62,000 on 11 September. Please explain the INR 15,000
+shortfall and the TDS section applied, and confirm the taxable value used.
+
+Vendor: Deccan Technical Services LLP
+PAN: AADFD5678B
+
+Regards,
+Arjun Reddy
+Finance

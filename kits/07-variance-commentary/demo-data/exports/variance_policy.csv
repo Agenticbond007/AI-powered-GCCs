@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,VALUE,DATA_CLASSIFICATION
+COMMENT_IF_ABS_PCT_AT_LEAST,5,SYNTHETIC DEMO DATA
+AND_ABS_INR_AT_LEAST,500000,SYNTHETIC DEMO DATA
+SIGN,Variance = Actual - Budget; for expense lines positive is adverse,SYNTHETIC DEMO DATA
+EVIDENCE,Every cause must cite a driver row or an owner email; otherwise query the owner,SYNTHETIC DEMO DATA

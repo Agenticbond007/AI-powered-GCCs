@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+LIFNR,NAME1,CITY,REGION,PAN,GSTIN,REGISTERED_EMAIL,BANK_ACCT_LAST4,PAYMENT_TERMS,MSME_FLAG,DATA_CLASSIFICATION
+0000100001,Kaveri Packaging Pvt Ltd,Pune,MH,AABCK1234A,27AABCK1234A1Z5,accounts@kaveri-packaging.example,8891,NT30,Y,SYNTHETIC DEMO DATA
+0000100003,Sagar Logistics Pvt Ltd,Chennai,TN,AAECS9012C,33AAECS9012C1Z8,ar@sagarlogistics.example,7744,NT30,N,SYNTHETIC DEMO DATA
+0000100006,Godavari Facilities Management Pvt Ltd,Hyderabad,TS,AABCG2345F,36AABCG2345F1Z4,accounts@godavari-fm.example,4410,NT30,N,SYNTHETIC DEMO DATA
+0000100008,Tapti Engineering Works,Nashik,MH,AADCT1122H,27AADCT1122H1Z8,accounts@tapti-eng.example,4567,NT30,Y,SYNTHETIC DEMO DATA

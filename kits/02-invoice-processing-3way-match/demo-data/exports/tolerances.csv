@@ -1,0 +1,5 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,VALUE,NOTE,DATA_CLASSIFICATION
+PRICE_VARIANCE_PCT,2.0,"Above this, hold for buyer approval (client-set demo value)",SYNTHETIC DEMO DATA
+QTY_VARIANCE_UNITS,0,Invoice qty may not exceed GR qty,SYNTHETIC DEMO DATA
+NON_PO_APPROVAL,COST_CENTER_OWNER,Non-PO invoices need cost-centre owner approval,SYNTHETIC DEMO DATA

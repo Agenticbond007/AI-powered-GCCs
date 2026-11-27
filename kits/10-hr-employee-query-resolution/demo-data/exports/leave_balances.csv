@@ -1,0 +1,5 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+EMP_ID,LEAVE_TYPE,OPENING_2026,ACCRUED_YTD,TAKEN_YTD,BALANCE,AS_OF,DATA_CLASSIFICATION
+E10231,Earned leave,6,16.5,9,13.5,2026-11-26,SYNTHETIC DEMO DATA
+E10231,Sick leave,0,10,2,8,2026-11-26,SYNTHETIC DEMO DATA
+E10477,Earned leave,4,16.5,19,1.5,2026-11-26,SYNTHETIC DEMO DATA

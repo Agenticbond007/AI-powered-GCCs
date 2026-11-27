@@ -1,0 +1,18 @@
+From: Lakshmi Reddy <accounts@godavari-fm.example>
+To: Meridian GCC India Pvt Ltd - AP Tax Desk <ap.tax@meridian-gcc.example>
+Subject: Excess TDS on INV-GFM-910 despite LDC
+Date: Wed, 25 Nov 2026 09:45:00 +0530
+Message-ID: <td-04@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: LDC in register; posting differs
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hi,
+
+You deducted TDS at 2% on INV-GFM-910 although our certificate LDC-DEMO-2026-0451 is registered with you. Please refund the excess.
+
+Lakshmi Reddy

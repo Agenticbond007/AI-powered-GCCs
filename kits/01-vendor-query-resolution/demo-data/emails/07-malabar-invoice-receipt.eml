@@ -1,0 +1,27 @@
+From: Anjali Menon <invoices@malabar-office.example>
+To: Meridian GCC India Pvt Ltd =?utf-8?b?4oCU?= Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Have you received invoice INV-MOS-331?
+Date: Wed, 18 Nov 2026 11:45:00 +0530
+Message-ID: <vq-demo-07@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA =E2=80=94 fictional. Not a real company, vendor, person,=
+ invoice, bank account, tax identifier, or payment. For playbook testing only=
+.]
+
+Dear AP,
+
+Please confirm receipt of our tax invoice INV-MOS-331 dated 10 November 2026
+for INR 47,200, emailed earlier to this mailbox. PO 4500011510.
+
+If it is not on your register, we will resend the PDF and IRN.
+
+Vendor: Malabar Office Solutions Pvt Ltd, Kochi
+GSTIN: 32AADCM7890E1Z1
+
+Best regards,
+Anjali Menon

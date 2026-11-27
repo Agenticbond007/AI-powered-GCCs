@@ -1,0 +1,3 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+DATE,PARTICULARS,REFERENCE,DEBIT_INR,CREDIT_INR,BALANCE_INR,DATA_CLASSIFICATION
+2026-11-02,Sales invoice,INV-TEW-440,236000.00,,236000.00,SYNTHETIC DEMO DATA

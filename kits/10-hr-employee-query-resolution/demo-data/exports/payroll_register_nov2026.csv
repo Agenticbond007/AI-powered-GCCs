@@ -1,0 +1,4 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+EMP_ID,PAY_MONTH,PAID_DAYS,LOP_DAYS,LOP_REASON,STATUS,PAY_DATE,DATA_CLASSIFICATION
+E10477,2026-11,27,3,Leave applied beyond balance: 3 days EL (14-18 Nov partial),PROCESSED,2026-11-30,SYNTHETIC DEMO DATA
+E10231,2026-11,30,0,,PROCESSED,2026-11-30,SYNTHETIC DEMO DATA

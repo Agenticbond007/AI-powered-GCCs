@@ -1,0 +1,3 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RECEIPT_DATE,BANK_REF_UTR,REMITTER_NAME,AMOUNT,STATUS,DATA_CLASSIFICATION
+2026-11-25,N271125007770011,SAHYADRI TELECOM LTD,590000.00,UNAPPLIED - awaiting cash application,SYNTHETIC DEMO DATA

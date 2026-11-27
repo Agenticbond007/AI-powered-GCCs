@@ -1,0 +1,32 @@
+From: Hitesh Patel <billing@narmada-supplies.example>
+To: Meridian GCC India Pvt Ltd - Accounts Payable
+ <ap.vendors@meridian-gcc.example>
+Subject: Invoice INV-NIS-1040 =?utf-8?b?4oCU?= PO 4500012360
+Date: Tue, 24 Nov 2026 11:40:00 +0530
+Message-ID: <ip-02@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Quantity exceeds PO and GR (120 vs 100)
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello,
+
+Attached is our invoice for nitrile gloves.
+---- INVOICE (text extracted from attached PDF) ----
+Supplier: Narmada Industrial Supplies Pvt Ltd
+Supplier GSTIN: 24AADCN3456D1Z7
+Bill to: Meridian GCC India Pvt Ltd, Bengaluru, GSTIN 29AAHCM4321Q1Z9
+Invoice no: INV-NIS-1040    Invoice date: 2026-11-22
+PO ref: 4500012360
+IRN: printed (64-char hash on PDF)
+Line: Safety gloves nitrile (box of 100) | Qty 120 BOX | Rate 500.00 | Amount 60,000.00
+Taxable value: 60,000.00
+IGST 18%: 10,800.00
+Invoice total: INR 70,800.00
+---- END INVOICE ----
+
+Thanks,
+Hitesh Patel

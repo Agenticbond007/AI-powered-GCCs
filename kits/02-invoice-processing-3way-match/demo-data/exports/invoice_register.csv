@@ -1,0 +1,4 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+BELNR,LIFNR,XBLNR,BLDAT,GROSS_AMOUNT,STATUS,PAID_ON,UTR,DATA_CLASSIFICATION
+1900000701,0000100007,INV-CC-778,2026-10-01,56640.00,PAID,2026-10-16,N271016005551111,SYNTHETIC DEMO DATA
+1900000103,0000100001,INV-KP-2412,2026-10-20,94400.00,OPEN,,,SYNTHETIC DEMO DATA
