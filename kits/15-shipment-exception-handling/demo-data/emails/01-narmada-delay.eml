@@ -1,0 +1,19 @@
+From: Billing Narmada <billing@narmada-supplies.example>
+To: Meridian GCC India - Logistics Desk <logistics@meridian-gcc.example>
+Subject: Delay on SH-3101 / PO 4500012501
+Date: Thu, 26 Nov 2026 10:15:00 +0530
+Message-ID: <sh-01@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Supplier-stated delay; new ETA unconfirmed
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello Logistics,
+
+ASN-NAR-881 (200 units, PO 4500012501) was held at the transporter hub in Pune. We expect the truck to reach your Bengaluru warehouse on 2 December 2026.
+
+Regards,
+Narmada Industrial Supplies Pvt Ltd

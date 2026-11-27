@@ -1,0 +1,8 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+INVOICE,EVENT_TIME,EVENT,ADDRESS,DETAIL,DATA_CLASSIFICATION
+INV-90201,2026-11-20 11:02,SENT,payables@aravalli-retail.example,Accepted by recipient mail server,SYNTHETIC DEMO DATA
+INV-90201,2026-11-20 16:40,OPENED,payables@aravalli-retail.example,Open tracked,SYNTHETIC DEMO DATA
+INV-90212,2026-11-21 10:15,SENT,ap@nilgiri-foods.example,Accepted by recipient mail server,SYNTHETIC DEMO DATA
+INV-90212,2026-11-21 10:16,BOUNCE,ap@nilgiri-foods.example,550 mailbox unavailable — user unknown,SYNTHETIC DEMO DATA
+INV-90240,2026-11-22 09:30,SENT,accounts@konkan-motors.example,Accepted by recipient mail server,SYNTHETIC DEMO DATA
+INV-90260,2026-11-24 14:05,SENT,accounts@satpura-agro.example,Accepted by recipient mail server,SYNTHETIC DEMO DATA

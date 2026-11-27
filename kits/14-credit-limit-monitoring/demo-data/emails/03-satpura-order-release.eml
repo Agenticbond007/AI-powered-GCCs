@@ -1,0 +1,20 @@
+From: Kavita Wankhede <accounts@satpura-agro.example>
+To: Meridian Industrial Solutions Ltd - Credit Risk (GCC desk)
+ <credit.risk@meridian-gcc.example>
+Subject: Please confirm you can accept SO-77411
+Date: Thu, 26 Nov 2026 12:00:00 +0530
+Message-ID: <cr-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Customer asks whether a modest order is within limit
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello,
+
+Our order SO-77411 for INR 4,00,000 is with your sales team. Can you confirm we are within our credit limit so it can proceed?
+
+Kavita Wankhede
+Satpura Agro Pvt Ltd

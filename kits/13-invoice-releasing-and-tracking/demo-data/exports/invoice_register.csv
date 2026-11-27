@@ -1,0 +1,7 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+KUNNR,INVOICE,INV_DATE,AMOUNT,CURRENCY,BILL_TO_EMAIL,RELEASE_STATUS,HOLD_REASON,SENT_DATE,SENT_TO,DATA_CLASSIFICATION
+C200001,INV-90201,2026-11-20,236000.00,INR,payables@aravalli-retail.example,RELEASED,,2026-11-20,payables@aravalli-retail.example,SYNTHETIC DEMO DATA
+C200002,INV-90212,2026-11-21,472000.00,INR,ap@nilgiri-foods.example,RELEASED,,2026-11-21,ap@nilgiri-foods.example,SYNTHETIC DEMO DATA
+C200003,INV-90231,2026-11-22,354000.00,INR,accounts.payable@vindhya-pharma.example,ON HOLD,Pricing dispute on related INV-90131 — billing hold,,,SYNTHETIC DEMO DATA
+C200004,INV-90240,2026-11-22,177000.00,INR,finance@konkan-motors.example,RELEASED,,2026-11-22,accounts@konkan-motors.example,SYNTHETIC DEMO DATA
+C200006,INV-90260,2026-11-24,141600.00,INR,accounts@satpura-agro.example,RELEASED,,2026-11-24,accounts@satpura-agro.example,SYNTHETIC DEMO DATA

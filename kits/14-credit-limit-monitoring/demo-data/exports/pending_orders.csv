@@ -1,0 +1,5 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+KUNNR,ORDER,ORDER_DATE,AMOUNT,STATUS,DATA_CLASSIFICATION
+C200002,SO-77421,2026-11-26,1500000.00,CREDIT BLOCK — would exceed limit,SYNTHETIC DEMO DATA
+C200004,SO-77430,2026-11-26,2500000.00,HELD — sales requested a temporary increase,SYNTHETIC DEMO DATA
+C200006,SO-77411,2026-11-25,400000.00,WITHIN LIMIT — awaiting credit release tick,SYNTHETIC DEMO DATA

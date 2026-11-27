@@ -1,0 +1,8 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,DETAIL,DATA_CLASSIFICATION
+Draft only,"The agent prepares the request pack. It never provisions, extends or revokes access in a system.",SYNTHETIC DEMO DATA
+Manager approval,Standard roles need the line manager named on the identity register. A peer or the requestor cannot approve.,SYNTHETIC DEMO DATA
+Privileged / sensitive,"Follow the extra approvers on the role catalogue, including IT security for privileged roles.",SYNTHETIC DEMO DATA
+Contractors,Access must have an end date no later than the contract end date. Open-ended contractor access is not drafted as ready.,SYNTHETIC DEMO DATA
+Leavers,All roles are proposed for revocation on or before the last working day. Late revokes are escalated.,SYNTHETIC DEMO DATA
+SoD,A request that would break an SoD rule is stopped and sent to the process owner. It is not drafted as ready to provision.,SYNTHETIC DEMO DATA

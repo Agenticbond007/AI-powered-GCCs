@@ -1,0 +1,18 @@
+From: James Whitaker <ic.desk@meridian-europe.example>
+To: Meridian GCC India - Intercompany Desk <intercompany@meridian-gcc.example>
+Subject: IC-INV-4388 FX rate
+Date: Thu, 26 Nov 2026 14:20:00 +0000
+Message-ID: <ic-04@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: FX difference on a USD document
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Ananya,
+
+On IC-INV-4388 (USD 10,000) we used the group rate of 83.20 (INR 8,32,000). Please confirm the rate India used so we can close the difference.
+
+James

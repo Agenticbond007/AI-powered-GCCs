@@ -1,0 +1,4 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+DATE,PAIR,RATE,SOURCE,DATA_CLASSIFICATION
+2026-11-05,USDINR,83.00,Group rate card — booking date,SYNTHETIC DEMO DATA
+2026-11-27,USDINR,83.20,Group rate card — extract date,SYNTHETIC DEMO DATA

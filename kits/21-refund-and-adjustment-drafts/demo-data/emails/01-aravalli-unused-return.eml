@@ -1,0 +1,20 @@
+From: Neha Sharma <payables@aravalli-retail.example>
+To: Meridian Industrial Solutions Ltd - Adjustments (GCC desk)
+ <adjustments@meridian-industrial.example>
+Subject: Return and refund =?utf-8?b?4oCU?= 40 units on INV-90201
+Date: Thu, 26 Nov 2026 10:30:00 +0530
+Message-ID: <rf-01@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: In-window unused return
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello Adjustments,
+
+We received SO-77001 on 25 November. 40 of the 200 CTN-440 units are surplus to our launch and remain unused and sealed. Please collect them and refund the proportionate amount on INV-90201.
+
+Neha Sharma
+Aravalli Retail Pvt Ltd

@@ -1,0 +1,20 @@
+From: Pooja Mishra <accounts.payable@vindhya-pharma.example>
+To: Meridian Industrial Solutions Ltd - Billing (GCC desk)
+ <billing@meridian-industrial.example>
+Subject: Please release INV-90231
+Date: Thu, 26 Nov 2026 15:00:00 +0530
+Message-ID: <ir-04@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Customer asks for an invoice that is on billing hold
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear team,
+
+We are waiting for INV-90231. Kindly send it today so we can process it this week.
+
+Pooja Mishra
+Vindhya Pharma Ltd

@@ -1,0 +1,18 @@
+From: Vikram Singh <vikram.singh@meridian-gcc.example>
+To: Meridian GCC India - IT Service Desk <itservicedesk@meridian-gcc.example>
+Subject: Suspicious email =?utf-8?b?4oCU?= please check
+Date: Thu, 26 Nov 2026 12:15:00 +0530
+Message-ID: <it-05@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Phishing report; attachment not opened
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hi IT,
+
+I received an email just now from 'ap.vendors-secure@meridian-gcc-billing.example' asking me to 're-confirm the payment file' and open the attached invoice.zip. I have not opened it. Screenshot is on my desktop if you need it.
+
+Vikram Singh, E10588

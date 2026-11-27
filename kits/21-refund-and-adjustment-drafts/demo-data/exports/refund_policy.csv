@@ -1,0 +1,10 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,DETAIL,DATA_CLASSIFICATION
+Standard return / unused goods,Refund or credit may be recommended if the request is made within 15 days of delivery and the goods are unused. The adjustments lead approves; finance posts.,SYNTHETIC DEMO DATA
+Out of window,"After the return window, do not recommend a standard refund. Escalate for a commercial decision. The agent does not grant goodwill.",SYNTHETIC DEMO DATA
+Duplicate charge,"If two invoices cover the same order and delivery, draft a credit for the duplicate, for the lead and finance to approve.",SYNTHETIC DEMO DATA
+Already refunded,"If a prior refund is paid, do not draft a second refund. Explain the UTR and date.",SYNTHETIC DEMO DATA
+Dispute already in billing,Do not raise a second refund path. Cross-refer the dispute and route to billing / collections.,SYNTHETIC DEMO DATA
+Chargeback or card recovery,Escalate to finance the same hour. Do not also draft a voluntary refund that could double-pay.,SYNTHETIC DEMO DATA
+Goodwill,Only a sales or care lead can propose goodwill. The agent never drafts it as approved.,SYNTHETIC DEMO DATA
+Authority,"The agent never processes a refund, posts a credit or tells the customer the money is on the way.",SYNTHETIC DEMO DATA

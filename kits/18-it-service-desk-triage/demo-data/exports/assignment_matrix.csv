@@ -1,0 +1,8 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+CATEGORY,PRIORITY_RULE,QUEUE,FIRST_RESPONSE,DATA_CLASSIFICATION
+Password / account lock,"P3 unless VIP, then P2. Never reset from email alone",L1 Service desk,Identity-check steps; then a technician resets,SYNTHETIC DEMO DATA
+How-to / knowledge,P4,L1 Service desk,Draft from the approved knowledge base only,SYNTHETIC DEMO DATA
+"Email / collaboration outage, multiple users",P1 — major incident,Major incident manager,"Acknowledge, open the major-incident path, do not treat as a single-user ticket",SYNTHETIC DEMO DATA
+Phishing / malware report,P1 security,Security operations,Thank the reporter; do not open attachments or links; do not ask them to forward the original as an opened file,SYNTHETIC DEMO DATA
+Access / role request,P3,Access management (route; do not grant),Point to the access-request process,SYNTHETIC DEMO DATA
+VIP (directory flag Y),"Raise one level (P3→P2, P2→P1) but still follow the same controls","Same queue, VIP flag on the ticket",Acknowledge quickly; no process skip,SYNTHETIC DEMO DATA

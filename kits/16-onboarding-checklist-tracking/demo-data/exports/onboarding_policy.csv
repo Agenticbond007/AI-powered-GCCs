@@ -1,0 +1,5 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,DETAIL,DATA_CLASSIFICATION
+BGV before start,A candidate cannot be confirmed to start if background verification is BLOCKED or overdue. HR ops decides any exception.,SYNTHETIC DEMO DATA
+Bank and ID details,"Collected only in HR self-service with OTP. The desk never accepts account numbers, Aadhaar or PAN by email, and never repeats them.",SYNTHETIC DEMO DATA
+Start-date change,Only talent / HR ops can change a start date. The agent records the request and notifies stakeholders; it does not confirm the new date.,SYNTHETIC DEMO DATA

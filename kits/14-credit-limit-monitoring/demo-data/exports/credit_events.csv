@@ -1,0 +1,5 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+KUNNR,DATE,EVENT,DETAIL,DATA_CLASSIFICATION
+C200002,2026-10-01,LIMIT_REVIEW,"Limit INR 80,00,000 confirmed at annual review",SYNTHETIC DEMO DATA
+C200003,2026-11-16,DISPUTE,INV-90131 pricing dispute logged by collections,SYNTHETIC DEMO DATA
+C200004,2026-09-15,LIMIT_REVIEW,"Limit INR 40,00,000; next review due 2027-03",SYNTHETIC DEMO DATA

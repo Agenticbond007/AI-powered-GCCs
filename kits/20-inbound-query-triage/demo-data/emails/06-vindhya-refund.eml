@@ -1,0 +1,20 @@
+From: Pooja Mishra <accounts.payable@vindhya-pharma.example>
+To: Meridian Industrial Solutions Ltd - Customer Care (GCC desk)
+ <care@meridian-industrial.example>
+Subject: Please refund INV-90131
+Date: Thu, 26 Nov 2026 15:50:00 +0530
+Message-ID: <cs-06@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Refund request already tied to a billing dispute
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear team,
+
+Please refund INV-90131 in full. We have already written to your billing desk about the rate dispute.
+
+Pooja Mishra
+Vindhya Pharma Ltd

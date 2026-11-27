@@ -1,0 +1,7 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+ROLE_ID,NAME,SYSTEM,TYPE,APPROVERS,NOTES,DATA_CLASSIFICATION
+AP_DISPLAY,AP display only,SAP,STANDARD,Line manager + access management,Read-only vendor and invoice queries,SYNTHETIC DEMO DATA
+AP_POST,AP invoice posting,SAP,SENSITIVE,Line manager + AP process owner + access management,Posts vendor invoices,SYNTHETIC DEMO DATA
+VENDOR_MASTER,Vendor master maintenance,SAP,PRIVILEGED,Line manager + AP process owner + IT security + access management,Creates and changes vendors,SYNTHETIC DEMO DATA
+GL_DISPLAY,GL display,SAP,STANDARD,Line manager + access management,,SYNTHETIC DEMO DATA
+SHARE_AP_TOWER,AP Tower file share,File share,STANDARD,Line manager + access management,,SYNTHETIC DEMO DATA

@@ -1,0 +1,4 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+DOC,DOC_DATE,COUNTERPARTY,DIRECTION,DESC,DOC_CURR,DOC_AMOUNT,LOCAL_AMOUNT,LOCAL_CURR,STATUS,DATA_CLASSIFICATION
+IC-INV-4410,2026-11-12,IN01,IN bills SG,November GCC support fee,INR,850000.00,13077.00,SGD,OPEN,SYNTHETIC DEMO DATA
+IC-CHG-88,2026-11-18,IN01,SG bills IN,Q2 shared IT platform,INR,265500.00,4085.00,SGD,OPEN,SYNTHETIC DEMO DATA

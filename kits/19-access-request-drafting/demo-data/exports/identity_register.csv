@@ -1,0 +1,7 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+PERSON_ID,NAME,WORK_EMAIL,TYPE,STATUS,MANAGER_EMAIL,CONTRACT_END,DATA_CLASSIFICATION
+E10231,Aditi Kulkarni,aditi.kulkarni@meridian-gcc.example,EMPLOYEE,ACTIVE,rohit.sen@meridian-gcc.example,,SYNTHETIC DEMO DATA
+E10503,Nisha Patil,nisha.patil@meridian-gcc.example,EMPLOYEE,ACTIVE,rohit.sen@meridian-gcc.example,,SYNTHETIC DEMO DATA
+E10801,Sanjay Kapoor,sanjay.kapoor@meridian-gcc.example,EMPLOYEE,ACTIVE,ceo.office@meridian-gcc.example,,SYNTHETIC DEMO DATA
+C-441,Dev Malhotra,dev.malhotra@narmada-contractors.example,CONTRACTOR,ACTIVE,meera.joseph@meridian-gcc.example,,SYNTHETIC DEMO DATA
+E10099,Arjun Das,arjun.das@meridian-gcc.example,EMPLOYEE,EXITED 2026-10-31,rohit.sen@meridian-gcc.example,,SYNTHETIC DEMO DATA

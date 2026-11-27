@@ -1,0 +1,21 @@
+From: Ramesh Iyer <ap@nilgiri-foods.example>
+To: Meridian Industrial Solutions Ltd - Customer Care (GCC desk)
+ <care@meridian-industrial.example>
+Subject: Please send a copy of our latest invoice
+Date: Thu, 26 Nov 2026 10:05:00 +0530
+Message-ID: <cs-02@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Invoice copy request =?utf-8?b?4oCU?= invoice not yet in the
+ index
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hi,
+
+We need a PDF copy of the invoice for SO-77040 for our AP file.
+
+Ramesh Iyer
+Nilgiri Foods Ltd

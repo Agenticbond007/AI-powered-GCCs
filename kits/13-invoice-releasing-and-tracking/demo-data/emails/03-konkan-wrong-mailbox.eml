@@ -1,0 +1,21 @@
+From: Sachin Desai <finance@konkan-motors.example>
+To: Meridian Industrial Solutions Ltd - Billing (GCC desk)
+ <billing@meridian-industrial.example>
+Subject: Please use our registered AP mailbox
+Date: Thu, 26 Nov 2026 11:20:00 +0530
+Message-ID: <ir-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario:
+ Sent to a non-registered mailbox; customer asks for a master-data update
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Team,
+
+INV-90240 went to accounts@konkan-motors.example, which is a shared ops box. Our registered payables mailbox is finance@konkan-motors.example. Please resend there and update your records.
+
+Sachin Desai
+Konkan Motors Pvt Ltd

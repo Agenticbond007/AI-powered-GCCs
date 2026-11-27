@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+PROJECT,NAME,STATUS,CHARGEABLE,DATA_CLASSIFICATION
+P-R2R-01,R2R Tower - Meridian India,OPEN,Y,SYNTHETIC DEMO DATA
+P-AP-02,AP Tower - Meridian India,OPEN,Y,SYNTHETIC DEMO DATA
+P-FPA-01,FP&A close support,OPEN,Y,SYNTHETIC DEMO DATA
+P-O2C-01,O2C Tower - Meridian India,OPEN,Y,SYNTHETIC DEMO DATA

@@ -1,0 +1,4 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+REFUND_ID,KUNNR,INVOICE,AMOUNT,DATE,STATUS,DATA_CLASSIFICATION
+RF-3310,C200005,INV-90150,0.00,,NONE,SYNTHETIC DEMO DATA
+RF-3288,C200002,INV-90080,118000.00,2026-11-10,"PAID 2026-11-12, UTR N271112004440022",SYNTHETIC DEMO DATA

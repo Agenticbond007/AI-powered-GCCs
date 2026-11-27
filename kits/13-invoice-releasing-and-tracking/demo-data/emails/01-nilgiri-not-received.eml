@@ -1,0 +1,20 @@
+From: Ramesh Iyer <ap@nilgiri-foods.example>
+To: Meridian Industrial Solutions Ltd - Billing (GCC desk)
+ <billing@meridian-industrial.example>
+Subject: INV-90212 not received
+Date: Thu, 26 Nov 2026 09:40:00 +0530
+Message-ID: <ir-01@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Customer says invoice not received; log shows a bounce
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello Billing,
+
+We have not received INV-90212. Please resend to ap@nilgiri-foods.example.
+
+Ramesh Iyer
+Nilgiri Foods Ltd

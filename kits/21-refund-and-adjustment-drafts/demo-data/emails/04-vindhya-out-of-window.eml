@@ -1,0 +1,20 @@
+From: Pooja Mishra <accounts.payable@vindhya-pharma.example>
+To: Meridian Industrial Solutions Ltd - Adjustments (GCC desk)
+ <adjustments@meridian-industrial.example>
+Subject: Goodwill refund of INV-90131
+Date: Thu, 26 Nov 2026 14:25:00 +0530
+Message-ID: <rf-04@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Out-of-window goodwill request on a disputed invoice
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Dear team,
+
+INV-90131 is past the return window, but we want a full goodwill refund because of the rate dispute. Please process it.
+
+Pooja Mishra
+Vindhya Pharma Ltd

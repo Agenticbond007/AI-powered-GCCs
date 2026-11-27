@@ -1,0 +1,20 @@
+From: Sachin Desai <finance@konkan-motors.example>
+To: Meridian Industrial Solutions Ltd - Adjustments (GCC desk)
+ <adjustments@meridian-industrial.example>
+Subject: We will raise a chargeback on INV-90240 unless refunded today
+Date: Thu, 26 Nov 2026 16:40:00 +0530
+Message-ID: <rf-05@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Chargeback threat on an open quality case
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Adjustments,
+
+Two KIT-77 units on INV-90240 were damaged (your case CS-1902). If the refund for those two units is not in our account today we will raise a chargeback through our bank.
+
+Sachin Desai
+Konkan Motors Pvt Ltd

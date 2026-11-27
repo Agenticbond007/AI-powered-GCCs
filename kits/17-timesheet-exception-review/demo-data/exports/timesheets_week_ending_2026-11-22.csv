@@ -1,0 +1,25 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+EMP_ID,NAME,WORK_EMAIL,MANAGER_EMAIL,DATE,PROJECT,HOURS,TYPE,STATUS,DATA_CLASSIFICATION
+E10477,Rohan Menon,rohan.menon@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-16,P-R2R-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10477,Rohan Menon,rohan.menon@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-17,P-R2R-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10477,Rohan Menon,rohan.menon@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-18,P-R2R-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10477,Rohan Menon,rohan.menon@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-19,P-R2R-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10477,Rohan Menon,rohan.menon@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-20,P-R2R-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10231,Aditi Kulkarni,aditi.kulkarni@meridian-gcc.example,rohit.sen@meridian-gcc.example,2026-11-16,P-AP-02,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10231,Aditi Kulkarni,aditi.kulkarni@meridian-gcc.example,rohit.sen@meridian-gcc.example,2026-11-17,P-AP-02,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10231,Aditi Kulkarni,aditi.kulkarni@meridian-gcc.example,rohit.sen@meridian-gcc.example,2026-11-18,P-AP-02,9.5,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10231,Aditi Kulkarni,aditi.kulkarni@meridian-gcc.example,rohit.sen@meridian-gcc.example,2026-11-19,P-AP-02,14.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10231,Aditi Kulkarni,aditi.kulkarni@meridian-gcc.example,rohit.sen@meridian-gcc.example,2026-11-20,P-AP-02,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10512,Farah Siddiqui,farah.siddiqui@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-16,P-FPA-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10512,Farah Siddiqui,farah.siddiqui@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-17,P-FPA-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10512,Farah Siddiqui,farah.siddiqui@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-18,P-FPA-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10512,Farah Siddiqui,farah.siddiqui@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-19,P-FPA-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10512,Farah Siddiqui,farah.siddiqui@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-20,P-FPA-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10512,Farah Siddiqui,farah.siddiqui@meridian-gcc.example,ananya.rao@meridian-gcc.example,2026-11-21,P-FPA-01,6.0,OVERTIME,SUBMITTED,SYNTHETIC DEMO DATA
+E10588,Vikram Singh,vikram.singh@meridian-gcc.example,meera.joseph@meridian-gcc.example,2026-11-16,P-O2C-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10588,Vikram Singh,vikram.singh@meridian-gcc.example,meera.joseph@meridian-gcc.example,2026-11-17,P-O2C-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10588,Vikram Singh,vikram.singh@meridian-gcc.example,meera.joseph@meridian-gcc.example,2026-11-18,P-XYZ-99,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10588,Vikram Singh,vikram.singh@meridian-gcc.example,meera.joseph@meridian-gcc.example,2026-11-19,P-O2C-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10588,Vikram Singh,vikram.singh@meridian-gcc.example,meera.joseph@meridian-gcc.example,2026-11-20,P-O2C-01,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10503,Nisha Patil,nisha.patil@meridian-gcc.example,rohit.sen@meridian-gcc.example,2026-11-16,P-AP-02,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA
+E10503,Nisha Patil,nisha.patil@meridian-gcc.example,rohit.sen@meridian-gcc.example,2026-11-17,P-AP-02,8.0,REGULAR,SUBMITTED,SYNTHETIC DEMO DATA

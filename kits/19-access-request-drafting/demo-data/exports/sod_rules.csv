@@ -1,0 +1,3 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE_ID,ROLE_A,ROLE_B,DETAIL,DATA_CLASSIFICATION
+SOD-04,AP_POST,VENDOR_MASTER,The same person must not post invoices and maintain vendor master data,SYNTHETIC DEMO DATA

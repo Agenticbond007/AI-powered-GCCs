@@ -1,0 +1,5 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+ENTITY,NAME,COUNTRY,CURRENCY,IC_EMAIL,CONTROLLER,DATA_CLASSIFICATION
+IN01,Meridian GCC India Pvt Ltd,IN,INR,intercompany@meridian-gcc.example,Ananya Rao,SYNTHETIC DEMO DATA
+SG01,Meridian Solutions APAC Pte Ltd,SG,SGD,ic.desk@meridian-apac.example,Mei Ling Tan,SYNTHETIC DEMO DATA
+UK01,Meridian Solutions Europe Ltd,GB,GBP,ic.desk@meridian-europe.example,James Whitaker,SYNTHETIC DEMO DATA

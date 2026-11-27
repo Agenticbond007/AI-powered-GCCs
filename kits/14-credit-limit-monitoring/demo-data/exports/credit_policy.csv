@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,THRESHOLD,ACTION,DATA_CLASSIFICATION
+Watch,80% of limit utilised (open AR + pending orders),Notify sales and credit; no automatic block,SYNTHETIC DEMO DATA
+Breach,Over 100% of limit,Recommend a hold on new releases; credit manager decides,SYNTHETIC DEMO DATA
+Overdue + breach,Any invoice > 30 days overdue while over limit,Recommend hold; escalate the same day,SYNTHETIC DEMO DATA
+Temporary increase,Any,Requires current financials and credit-manager approval; never granted from a sales email alone,SYNTHETIC DEMO DATA

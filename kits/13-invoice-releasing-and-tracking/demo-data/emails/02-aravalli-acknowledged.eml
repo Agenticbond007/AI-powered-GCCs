@@ -1,0 +1,20 @@
+From: Neha Sharma <payables@aravalli-retail.example>
+To: Meridian Industrial Solutions Ltd - Billing (GCC desk)
+ <billing@meridian-industrial.example>
+Subject: RE: INV-90201
+Date: Wed, 25 Nov 2026 18:05:00 +0530
+Message-ID: <ir-02@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Customer acknowledges receipt
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hi,
+
+INV-90201 for INR 2,36,000 is received and in our AP queue. Thank you.
+
+Neha Sharma
+Aravalli Retail Pvt Ltd

@@ -1,0 +1,9 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+CATEGORY,QUEUE,FIRST_RESPONSE_RULE,DATA_CLASSIFICATION
+Order status,Order desk,Quote status and promised date from the order export; do not invent a new date,SYNTHETIC DEMO DATA
+Invoice / copy request,Accounts receivable billing,Route; do not attach bank details that are not already on the invoice,SYNTHETIC DEMO DATA
+Quality / damage complaint,Quality / complaints,Acknowledge; do not admit liability or offer a refund,SYNTHETIC DEMO DATA
+Refund / adjustment request,Adjustments (see the refund kit once routed),Route; do not promise a refund or a credit,SYNTHETIC DEMO DATA
+Warranty,Warranty desk,Acknowledge and route; do not approve a claim,SYNTHETIC DEMO DATA
+Legal threat / abusive / highly urgent,Duty manager + original queue,Flag sentiment and escalate the same hour; stay factual,SYNTHETIC DEMO DATA
+Spam / unrelated,No queue — propose close,No customer draft unless the lead asks,SYNTHETIC DEMO DATA

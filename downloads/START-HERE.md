@@ -1,6 +1,6 @@
 # START HERE — AI-powered GCCs Free Agent Kits
 
-Eleven ready-to-run AI agent kits for transactional work in India's global capability centres (GCCs).
+Twenty-one ready-to-run AI agent kits for transactional work in India's global capability centres (GCCs).
 Each kit runs on **emails and exported files only**. No ERP login, no mailbox connection, no system access.
 
 > All demo data is SYNTHETIC DEMO DATA — fictional companies, people and numbers. Never real.
@@ -29,6 +29,16 @@ Each kit runs on **emails and exported files only**. No ERP login, no mailbox co
 | 09 | TDS Query Handling | Tax | Answers vendor TDS questions from the TDS registers |
 | 10 | HR Employee Query Resolution | HR | Answers people-desk emails with identity checks |
 | 11 | Procurement PO Follow-up | Procurement | Drafts supplier expediting and requester updates from the open-PO report |
+| 12 | Intercompany Reconciliations | R2R | Reconciles intercompany ledgers, explains every difference and drafts queries and proposed journals |
+| 13 | Invoice Releasing & Tracking | O2C | Tracks whether issued invoices have been released and received, and drafts resends and master-data notes |
+| 14 | Credit Limit Monitoring | Credit | Assesses utilisation from open AR and pending orders, and drafts hold recommendations and replies to increase requests |
+| 15 | Shipment Exception Handling | Supply Chain | Drafts exception briefs, requester updates and claims or discrepancy notes from the shipment tracker |
+| 16 | Onboarding Checklist Tracking | HR | Tracks new-hire steps, flags what is still open, and drafts manager, joiner and IT updates |
+| 17 | Timesheet Exception Review | HR | Reviews a weekly timesheet export and prepares an exception list for a timekeeping lead |
+| 18 | IT Service Desk Triage | IT | Classifies inbound IT emails, assigns a priority and queue, and drafts a first response |
+| 19 | Access Request Drafting | IT | Turns intake emails into an access-request pack with roles, approvers, SoD checks and end dates |
+| 20 | Inbound Query Triage | Customer Service | Classifies customer emails, routes them to the right queue, and drafts a first response |
+| 21 | Refund and Adjustment Drafts | Customer Service | Drafts recommended credits or escalations from refund requests, invoices and policy |
 
 ## 3. Quick start — no access required
 

@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+CANDIDATE_ID,NAME,WORK_EMAIL,PERSONAL_EMAIL,DEPARTMENT,MANAGER,MANAGER_EMAIL,START_DATE,STATUS,DATA_CLASSIFICATION
+NH-2411,Ishita Verma,ishita.verma@meridian-gcc.example,ishita.v.mail@webmail.example,AP Tower,Rohit Sen,rohit.sen@meridian-gcc.example,2026-11-24,JOINED,SYNTHETIC DEMO DATA
+NH-2418,Karthik Reddy,karthik.reddy@meridian-gcc.example,karthik.r@webmail.example,IT / Tech Ops,Meera Joseph,meera.joseph@meridian-gcc.example,2026-12-01,PRE-JOINING,SYNTHETIC DEMO DATA
+NH-2420,Laya Nair,laya.nair@meridian-gcc.example,laya.nair@webmail.example,O2C Tower,Vikram Singh,vikram.singh@meridian-gcc.example,2026-12-01,PRE-JOINING,SYNTHETIC DEMO DATA
+NH-2424,Mohammed Irfan,mohammed.irfan@meridian-gcc.example,irfan.m@webmail.example,FP&A,Farah Siddiqui,farah.siddiqui@meridian-gcc.example,2026-12-08,PRE-JOINING — start date under review,SYNTHETIC DEMO DATA

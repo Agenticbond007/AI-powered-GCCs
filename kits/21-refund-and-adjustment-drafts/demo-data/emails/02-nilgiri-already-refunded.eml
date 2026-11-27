@@ -1,0 +1,20 @@
+From: Ramesh Iyer <ap@nilgiri-foods.example>
+To: Meridian Industrial Solutions Ltd - Adjustments (GCC desk)
+ <adjustments@meridian-industrial.example>
+Subject: Where is my refund for INV-90080?
+Date: Thu, 26 Nov 2026 11:10:00 +0530
+Message-ID: <rf-02@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Customer asks again for a refund already paid
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hi,
+
+We still have not seen a refund for INV-90080 (INR 1,18,000). Please process it today.
+
+Ramesh Iyer
+Nilgiri Foods Ltd

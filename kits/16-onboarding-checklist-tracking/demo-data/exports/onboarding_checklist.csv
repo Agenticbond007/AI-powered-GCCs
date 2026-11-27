@@ -1,0 +1,22 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+CANDIDATE_ID,STEP,OWNER,DUE,STATUS,NOTE,DATA_CLASSIFICATION
+NH-2411,Offer accepted,Talent,2026-11-10,DONE,,SYNTHETIC DEMO DATA
+NH-2411,Background verification,HR ops,2026-11-20,DONE,Clear 2026-11-18,SYNTHETIC DEMO DATA
+NH-2411,Laptop and account,IT,2026-11-24,OPEN,Ticket IT-8891 still open — laptop not issued,SYNTHETIC DEMO DATA
+NH-2411,Workspace and access pack,IT / Facilities,2026-11-24,DONE,,SYNTHETIC DEMO DATA
+NH-2411,Day-1 induction,HR ops,2026-11-24,DONE,,SYNTHETIC DEMO DATA
+NH-2418,Offer accepted,Talent,2026-11-15,DONE,,SYNTHETIC DEMO DATA
+NH-2418,Background verification,HR ops,2026-11-28,DONE,Clear 2026-11-22,SYNTHETIC DEMO DATA
+NH-2418,Laptop and account,IT,2026-12-01,DONE,Account ready; laptop staged,SYNTHETIC DEMO DATA
+NH-2418,Workspace and access pack,IT / Facilities,2026-12-01,DONE,,SYNTHETIC DEMO DATA
+NH-2418,Day-1 induction,HR ops,2026-12-01,OPEN,Scheduled 2026-12-01 09:30,SYNTHETIC DEMO DATA
+NH-2420,Offer accepted,Talent,2026-11-18,DONE,,SYNTHETIC DEMO DATA
+NH-2420,Background verification,HR ops,2026-11-27,BLOCKED,Agency report overdue; no result as of extract,SYNTHETIC DEMO DATA
+NH-2420,Laptop and account,IT,2026-12-01,OPEN,On hold pending BGV,SYNTHETIC DEMO DATA
+NH-2420,Workspace and access pack,IT / Facilities,2026-12-01,OPEN,,SYNTHETIC DEMO DATA
+NH-2420,Day-1 induction,HR ops,2026-12-01,OPEN,,SYNTHETIC DEMO DATA
+NH-2424,Offer accepted,Talent,2026-11-20,DONE,,SYNTHETIC DEMO DATA
+NH-2424,Background verification,HR ops,2026-12-04,OPEN,In progress,SYNTHETIC DEMO DATA
+NH-2424,Laptop and account,IT,2026-12-08,OPEN,,SYNTHETIC DEMO DATA
+NH-2424,Workspace and access pack,IT / Facilities,2026-12-08,OPEN,,SYNTHETIC DEMO DATA
+NH-2424,Day-1 induction,HR ops,2026-12-08,OPEN,,SYNTHETIC DEMO DATA

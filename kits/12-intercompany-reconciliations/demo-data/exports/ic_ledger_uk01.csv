@@ -1,0 +1,4 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+DOC,DOC_DATE,COUNTERPARTY,DIRECTION,DESC,DOC_CURR,DOC_AMOUNT,LOCAL_AMOUNT,LOCAL_CURR,STATUS,DATA_CLASSIFICATION
+IC-INV-4415,2026-11-15,IN01,IN bills UK,Q3 management fee,INR,1180000.00,10631.00,GBP,OPEN,SYNTHETIC DEMO DATA
+IC-INV-4388,2026-11-05,IN01,UK bills IN,Group licence recharge,USD,10000.00,832000.00,INR-equiv at 83.20,OPEN,SYNTHETIC DEMO DATA

@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,THRESHOLD,ACTION,DATA_CLASSIFICATION
+FX difference,"INR 5,000",Draft FX JE for controller approval if within threshold; escalate if above,SYNTHETIC DEMO DATA
+Amount mismatch (same document),Any,Do not write off; both controllers must agree a correcting entry,SYNTHETIC DEMO DATA
+Item on one ledger only,Any,Query the originating entity; do not book on the silent side from email alone,SYNTHETIC DEMO DATA
+Netting,Any,Proposed only; treasury and both controllers approve,SYNTHETIC DEMO DATA

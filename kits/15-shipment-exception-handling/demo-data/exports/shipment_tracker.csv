@@ -1,0 +1,7 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+SHIPMENT,PO,LINE,VENDOR,ASN,ORIGIN,ETA,QTY_ASN,QTY_RECEIVED,STATUS,REQUESTER,REQUESTER_EMAIL,DATA_CLASSIFICATION
+SH-3101,4500012501,10,0000100004,ASN-NAR-881,Vadodara,2026-11-24,200,0,IN TRANSIT - DELAYED,Arun Kumar,arun.kumar@meridian-gcc.example,SYNTHETIC DEMO DATA
+SH-3104,4500012510,10,0000100005,ASN-MAL-220,Kochi,2026-11-26,60,60,DELIVERED ON TIME,Facilities desk,facilities@meridian-gcc.example,SYNTHETIC DEMO DATA
+SH-3108,4500012522,10,0000100001,ASN-KAV-440,Pune,2026-11-25,5000,3000,SHORT DELIVERY,Priya Nair,priya.n@meridian-gcc.example,SYNTHETIC DEMO DATA
+SH-3112,4500012530,10,0000100007,ASN-CHA-119,Indore,2026-11-28,120,0,CUSTOMS HOLD - ICD Tughlakabad,Rahul Bose,rahul.bose@meridian-gcc.example,SYNTHETIC DEMO DATA
+SH-3115,4500012541,10,0000100003,ASN-SAG-902,Chennai,2026-11-26,8,8,DELIVERED - DAMAGE REPORTED,Warehouse Bengaluru,wh.blr@meridian-gcc.example,SYNTHETIC DEMO DATA

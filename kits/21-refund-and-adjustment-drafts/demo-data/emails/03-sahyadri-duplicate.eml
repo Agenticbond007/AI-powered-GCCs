@@ -1,0 +1,20 @@
+From: Anil Gokhale <vendorpayments@sahyadri-telecom.example>
+To: Meridian Industrial Solutions Ltd - Adjustments (GCC desk)
+ <adjustments@meridian-industrial.example>
+Subject: You billed us twice for SO-76940
+Date: Thu, 26 Nov 2026 12:00:00 +0530
+Message-ID: <rf-03@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Duplicate invoice on the same order
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Team,
+
+INV-90150 and INV-90150-DUP are the same order SO-76940, same amount INR 5,90,000. Please reverse the duplicate and confirm.
+
+Anil Gokhale
+Sahyadri Telecom Ltd

@@ -1,0 +1,8 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+RULE,DETAIL,DATA_CLASSIFICATION
+Standard day,8 regular hours. Hours above 8 on a weekday are overtime and need prior manager approval.,SYNTHETIC DEMO DATA
+Hard cap,More than 12 hours in a calendar day is a hard flag. Do not recommend approval; payroll and HR ops review.,SYNTHETIC DEMO DATA
+Weekend / holiday,All hours are overtime and need prior written manager approval.,SYNTHETIC DEMO DATA
+Missing timesheet,Any weekday with no entry for an active employee is an exception.,SYNTHETIC DEMO DATA
+Invalid project,A code not on the project master is returned to the employee; it is not approved.,SYNTHETIC DEMO DATA
+Agent authority,The agent never approves hours or posts to payroll.,SYNTHETIC DEMO DATA

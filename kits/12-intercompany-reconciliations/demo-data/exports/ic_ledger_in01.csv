@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+DOC,DOC_DATE,COUNTERPARTY,DIRECTION,DESC,DOC_CURR,DOC_AMOUNT,INR_AMOUNT,FX_RATE,STATUS,DATA_CLASSIFICATION
+IC-INV-4410,2026-11-10,SG01,IN bills SG,November GCC support fee,INR,850000.00,850000.00,1.00,OPEN,SYNTHETIC DEMO DATA
+IC-INV-4412,2026-11-25,SG01,IN bills SG,Project Coral implementation,INR,420000.00,420000.00,1.00,OPEN,SYNTHETIC DEMO DATA
+IC-INV-4415,2026-11-12,UK01,IN bills UK,Q3 management fee,INR,1200000.00,1200000.00,1.00,OPEN,SYNTHETIC DEMO DATA
+IC-INV-4388,2026-11-05,UK01,UK bills IN,Group licence recharge,USD,10000.00,830000.00,83.00,OPEN,SYNTHETIC DEMO DATA

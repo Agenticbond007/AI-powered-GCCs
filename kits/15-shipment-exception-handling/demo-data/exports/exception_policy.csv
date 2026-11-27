@@ -1,0 +1,6 @@
+# SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only. Export as of 2026-11-27 09:00 Asia/Calcutta (IST). Skip this comment line when parsing.
+EXCEPTION,FIRST_ACTION,ESCALATE_TO,DATA_CLASSIFICATION
+Delay,Record carrier-stated new ETA as unconfirmed; brief the requester; do not commit an internal date,Buyer / logistics lead if delay > 3 days past original ETA,SYNTHETIC DEMO DATA
+Short delivery,Draft a discrepancy notice; do not amend the PO or close the ASN,Buyer,SYNTHETIC DEMO DATA
+Damage,Draft a claims pack from the warehouse note; do not accept or reject liability,Logistics lead and buyer,SYNTHETIC DEMO DATA
+Customs hold,Summarise the hold and documents outstanding; escalate same day,Logistics lead,SYNTHETIC DEMO DATA

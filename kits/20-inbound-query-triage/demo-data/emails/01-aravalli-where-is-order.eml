@@ -1,0 +1,20 @@
+From: Neha Sharma <payables@aravalli-retail.example>
+To: Meridian Industrial Solutions Ltd - Customer Care (GCC desk)
+ <care@meridian-industrial.example>
+Subject: Where is SO-77001?
+Date: Thu, 26 Nov 2026 09:15:00 +0530
+Message-ID: <cs-01@meridian-gcc.example>
+X-Synthetic-Demo-Data: SYNTHETIC DEMO DATA
+X-Demo-Scenario: Order status query
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+[SYNTHETIC DEMO DATA — fictional. Not a real company, person, invoice, bank account, tax identifier, employee, or payment. For playbook testing only.]
+
+Hello Customer Care,
+
+Please update us on SO-77001, 200 units of CTN-440, promised 25 November. Has it shipped?
+
+Neha Sharma
+Aravalli Retail Pvt Ltd
